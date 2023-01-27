@@ -1,0 +1,5 @@
+#test input file for download script
+2009, 05, 07, 00, 00, 00, 0, ,,,, 180, 86400, 0, GR,  BFO, LH, *, m
+# old format with explicit outputfolder name
+2007,8,16,0,19,13,0,-14.25,-76.02,55,5.70, 180,7200,120,FR,SAOF,BH,*,m,rot,VEL,/rayleighdata/data/data_2h/,sub
+2011,9,5,8,22,46,0,59.01,-30.79,10,4.60, 180,7200,120,IV,PLAC,BH,*,m,rot,VEL,/rayleighdata/data/data_2h/,sub
